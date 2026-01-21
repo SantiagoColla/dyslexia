@@ -14,11 +14,7 @@ title: geon
 # tagline: Site Tagline
 # description: [A short description of your site's purpose]
 author:
-    name: Victor Widell
-    email: victor_widell@gmail.com
-    github: geon
-#  twitter : username
-#  feedburner : feedname
+    name: Santiago, with collaboration from Victor Widell
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt
@@ -28,6 +24,6 @@ author:
 # Else if you are pushing to username.github.com, replace with your username.
 # Finally if you are pushing to a GitHub project page, include the project name at the end.
 #
-production_url: http://geon.github.io
+production_url: http://SantiagoColla.github.io
 
 future: true
