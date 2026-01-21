@@ -126,7 +126,7 @@ $(function(){
 	}
 
 
-	setInterval(messUpWords, 300);
+	setInterval(messUpWords, 500);
 });
 
 
