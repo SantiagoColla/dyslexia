@@ -76,7 +76,7 @@ $(function(){
 			for (var j = 0; j < wordsInTextNodes[i].length; j++) {
 
 				// Only change a tenth of the words each round.
-				if (Math.random() > 1/10) {
+				if (Math.random() > 1/50) {
 
 					continue;
 				}
