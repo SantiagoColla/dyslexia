@@ -6,7 +6,6 @@ show_downloads: false
 title: Dyslexia
 author:
     name: Santiago, with collaboration from Victor Widell
-baseurl: "/dyslexia"
 production_url: "https://SantiagoColla.github.io"
 
 future: true
